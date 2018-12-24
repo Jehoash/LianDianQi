@@ -1,4 +1,4 @@
-# VibraClick-LianDianQi-2  
+# VibraClick-LianDianQi  
 ![image](https://github.com/Jehoash/VibraClick-LianDianQi-2/blob/master/Sample.png)  
 鼠键连点器   
 精确到1ms  
